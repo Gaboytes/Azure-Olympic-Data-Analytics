@@ -46,7 +46,7 @@ This Dataset contains real information about the last olympic games that took pl
    
 ![image](https://github.com/Gaboytes/Azure-Olympic-Data-Analytics/assets/145523136/85615f2d-a32f-4155-8201-83fdb2312f85)
 
-
+Live Dashboard[Link](https://www.novypro.com/project/azure-olympic-analysis)
 
  ### Additional Info
 
